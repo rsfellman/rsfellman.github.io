@@ -1,4 +1,4 @@
-##This is my first blog post!
+## This is my first blog post!
 
 Data Science and Statistics
 Data science is all about the intersection of math and statistics, analytics, and business. An effective data scientist should be able to clean data, code, and problem solve.   
