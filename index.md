@@ -1,5 +1,8 @@
-Hi! Welcome!
+# Hi! Welcome!
 
-I only vaguely understand what I'm doing so that's super good.
+### My Info:
+Email: rsfellma@ncsu.edu  
+Cat's Name: Sasha (also responds to sashimi and boopy)
 
-Hope you enjoy the blog.
+
+
