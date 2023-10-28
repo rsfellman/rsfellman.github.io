@@ -1,0 +1,6 @@
+# Variable Selection
+
+For your blog post, write up a brief discussion of how you would plan to determine variables to use in a regression model.  What variable selection techniques do you prefer and why?.  
+
+Variable selection is an annoyingly difficult part of modeling. When doing variable selection I would likely choose a criterion based approch because they are not as limmiting as stepwise methods. That is not to say that stepwise selection is necessarily bad, but it can create biased models. We don't want to overfit the model becuase that would make it bad for prediction purposes. Additionally, even if you have a large number of possible predictor variables, it is not a good practice to use more variables than your sample size.
+When useing a criteron based method I would probably choose to examine a few different criteria (as opposed to selecting only one) to increase the lieklyhood that the model I choose is the best option. I would also try to use critera such as Akaike information criterion (AIC) that is made to penalize the model for increase complexity. This means that based on AIC, the model will not necessarily be a better fit just because it includes more variables/terms. This can be a good was to prevent overfitting our models to the sample. 
