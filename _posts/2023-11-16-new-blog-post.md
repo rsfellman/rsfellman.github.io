@@ -5,5 +5,5 @@ The most difficult part was creating the model that was not explained in class. 
 
 One of my biggest takeaways from this project are that there are many different ways one can model data and that if you have the time/computational power, it can be a good idea to test a few models to see which performs the best. Another takeaway would be that besides just writing the code, getting it to function correctly on github is a whole other challenge as well.
 
-[link to project 3 Pages Site](https://rsfellman.github.io/ST557_Project3/)  
-[Link to repo for project 3](https://github.com/rsfellman/ST557_Project3)
+[link to project 3 Pages Site](https://rsfellman.github.io/ST558_Project3/)  
+[Link to repo for project 3](https://github.com/rsfellman/ST558_Project3)
